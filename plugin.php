@@ -1,15 +1,15 @@
 <?php
 /**
- * Plugin Name: fh-material-cards — CGB Gutenberg Block Plugin
- * Plugin URI: https://github.com/ahmadawais/create-guten-block/
- * Description: fh-material-cards — is a Gutenberg plugin created via create-guten-block.
- * Author: mrahmadawais, maedahbatool
- * Author URI: https://AhmadAwais.com/
+ * Plugin Name: Materialcards
+ * Plugin URI: https://github.com/Meternios/material-cards
+ * Description: Is a Gutenberg Plugin to display Google Materialcards as Posttype
+ * Author: Florian Hitz
+ * Author URI: https://github.com/Meternios
  * Version: 1.0.0
  * License: GPL2+
  * License URI: https://www.gnu.org/licenses/gpl-2.0.txt
  *
- * @package CGB
+ * @package FH
  */
 
 // Exit if accessed directly.

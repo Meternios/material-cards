@@ -48,7 +48,7 @@ registerBlockType( 'cgb/block-fh-material-cards', {
 	 * @returns {Mixed} JSX Component.
 	 */
 	edit: ( props ) => {
-		// Creates a <p class='wp-block-cgb-block-fh-material-cards'></p>.
+		// Creates a <p class='wp-block-block-fh-material-cards'></p>.
 		return (
 			<div className={ props.className }>
 				<p>— Hello from the backend.</p>
